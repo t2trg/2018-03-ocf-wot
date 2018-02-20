@@ -23,7 +23,9 @@ Assembling agenda now. Please discuss changes and additions with the [chairs](ma
 | 13:40 | Technical topics                                                   |                              |
 |       | WISHI activities report                                            |                              |
 |       | Representation format of forms for IoT devices                     |                              |
-|       | IPSO-OCF model interoperability with WoT TD                        |                              |
+|       | IPSO-OCF model interoperability with [WoT TD]                      |                              |
 |       | ACE discussion continuation (multipoint security, etc.)            |                              |
 |       | Reference implementations and test case (CoAP, CoAP TCP, CBOR, ...)|                              |
 | 17:20 | Wrap-up and next steps                                             | Chairs                       |
+
+[WoT TD]: https://www.w3.org/TR/wot-architecture/#sec-building-blocks-thing-description
