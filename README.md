@@ -21,6 +21,7 @@ Assembling agenda now. Please discuss changes and additions with the [chairs](ma
 | 12:30 | Lunch                                                              |                              |
 | 13:30 | Welcome and intro                                                  | Chairs                       |
 | 13:40 | Technical topics                                                   |                              |
+|       | Status update of IETF/OCF coordination action items                |                              |
 |       | WISHI activities report                                            |                              |
 |       | Representation format of forms for IoT devices                     |                              |
 |       | IPSO-OCF model interoperability with [WoT Thing Descriptions]      |                              |
