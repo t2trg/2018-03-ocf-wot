@@ -19,14 +19,14 @@ Assembling agenda now. Please discuss changes and additions with the [chairs](ma
 |  Time | Topic                                                              | Who                          |
 |-------|--------------------------------------------------------------------|------------------------------|
 | 12:30 | Lunch                                                              |                              |
-| 13:30 | Welcome and intro                                                  | Chairs                       |
+| 13:30 | Welcome and intro                                                  | All Chairs                   |
 | 13:40 | Technical topics                                                   |                              |
-|       | Status update of IETF/OCF coordination action items                |                              |
-|       | WISHI activities report                                            |                              |
+|       | Status update of IETF/OCF coordination action items                | All Chairs                   |
+|       | WISHI activities report                                            | T2TRG Chairs                 |
 |       | Representation format of forms for IoT devices                     |                              |
 |       | IPSO-OCF model interoperability with [WoT Thing Descriptions]      |                              |
 |       | ACE discussion continuation (multipoint security, etc.)            |                              |
 |       | Reference implementations and test case (CoAP, CoAP TCP, CBOR, ...)|                              |
-| 17:20 | Wrap-up and next steps                                             | Chairs                       |
+| 17:20 | Wrap-up and next steps                                             | All Chairs                   |
 
 [WoT Thing Descriptions]: https://www.w3.org/TR/wot-architecture/#sec-building-blocks-thing-description
