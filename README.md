@@ -25,6 +25,9 @@ Assembling agenda now. Please discuss changes and additions with the [chairs](ma
 |       | WISHI activities report                                                   | T2TRG Chairs     |
 |       | Representation format of forms for IoT devices                            |                  |
 |       | Model interoperability: [WoT Thing Descriptions] with OCF and IPSO models |Matthias Kovatsch |
+|       | Push Models for Device data  (pub/sub, non-traditional responses, ...)    |                  |
+|       | Links, Bindings, Interfaces, and Resource Representations                 |                  |
+|       | "Base" Coap (New Response Codes, Resource Directory)                      |                  |
 |       | ACE discussion continuation (multipoint security, etc.)                   |                  |
 |       | Reference implementations and test case (CoAP, CoAP TCP, CBOR, ...)       |                  |
 | 17:20 | Wrap-up and next steps                                                    | All Chairs       |
