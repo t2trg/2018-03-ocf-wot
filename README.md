@@ -9,7 +9,9 @@ Registration: https://goo.gl/forms/6J41OcplbUAPVL3J3
 
 (OCF is hosting the event and needs to create badges for participants, so please register by **Saturday 3rd of March**; late registrations are possible until 12th, but for planning purposes we should know the participants as soon as possible)
 
-Remote participation: [WebEx](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=m26993996333bbe0414ed60f2416a8e84)
+# Remote participation
+
+[WebEx](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=m26993996333bbe0414ed60f2416a8e84)
 
 Meeting Number: 920 282 804
 
