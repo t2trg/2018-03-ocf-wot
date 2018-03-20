@@ -39,6 +39,7 @@ Assembling agenda now. Please discuss changes and additions with the [chairs](ma
 |       | "Base" Coap (New Response Codes, RD alignment)                            |                  |
 |       | ACE discussion continuation (multipoint security, etc.)                   |                  |
 |       | Reference implementations and test case (CoAP, CoAP TCP, CBOR, ...)       |                  |
+|       | Alternate transports and OCF endpoint link parameter                      |                  |
 | 17:20 | Wrap-up and next steps                                                    | All Chairs       |
 
 [WoT Thing Descriptions]: https://www.w3.org/TR/wot-architecture/#sec-building-blocks-thing-description
