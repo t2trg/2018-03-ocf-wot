@@ -11,9 +11,10 @@ Registration: https://goo.gl/forms/6J41OcplbUAPVL3J3
 
 # Remote participation
 
-[WebEx](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=m26993996333bbe0414ed60f2416a8e84)
+[WebEx](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=m7f87c13e2fb76a96803d4a76c2a3a7de)
 
-Meeting Number: 920 282 804
+Meeting Number: 920 959 930    
+Meeting password: 1234
 
 Join by phone: 
 +1-415-655-0002 US Toll
