@@ -37,7 +37,7 @@ Assembling agenda now. Please discuss changes and additions with the [chairs](ma
 |       | Model interoperability: [WoT Thing Descriptions] with OCF and IPSO models |Matthias Kovatsch |
 |       | Push Models for Device data  (pub/sub, non-traditional responses, ...)    |                  |
 |       | Links, Bindings, Interfaces, and Resource Representations                 |                  |
-|       | "Base" Coap (New Response Codes, RD alignment)                            |                  |
+|       | "Base" CoAP (New Response Codes, RD alignment)                            |                  |
 |       | ACE discussion continuation (multipoint security, etc.)                   |                  |
 |       | Reference implementations and test case (CoAP, CoAP TCP, CBOR, ...)       |                  |
 | 17:20 | Wrap-up and next steps                                                    | All Chairs       |
