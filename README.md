@@ -21,6 +21,8 @@ Join by phone:
 
 [Global call-in numbers](https://openconnectivity.webex.com/openconnectivity/globalcallin.php?serviceType=MC&ED=653667752&tollFree=1)
 
+Live notes: https://docs.google.com/document/d/1x0FoKLOnb_TfjC5pU4xgKfoH2EDsfHUnpNSwYsr8bY4/edit?usp=sharing
+
 
 # Agenda
 
